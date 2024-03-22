@@ -19,3 +19,5 @@
 #para configurar o seu email: git config --global user.email "antunesantonio91@gmail.com"
 #para verificar se o seu nome e email deram certo: git config --list      +      seta para baixo   >>> para sair apertamos "q"
 #para verificar se o seu commit deu certo digitamos: git log
+
+#para ENVIAR O COMMIT PARA O GITHUB: git push -u origin main
